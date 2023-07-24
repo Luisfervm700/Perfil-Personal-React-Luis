@@ -2,7 +2,7 @@ import React from 'react';
 
 export function Header({ name, profession, avatar, address, email, website, phone }) {
   return (
-    <div className="bg-blue-400 text-black p-4 mb-4 flex items-center">
+    <div className="bg-blue-300 text-black p-4 mb-4 flex items-center">
       <img className="rounded w-32 h-31 mr-6" src={avatar} alt="Profile Avatar" />
       <div>
         <h1 className="text-4xl font-bold">{name}</h1>
