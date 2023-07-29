@@ -16,14 +16,14 @@ function App() {
       profession: "FrontEnd Developer",
       address: "Filandia, Colombia.",
       email: "luisfernandovm700@gmail.com",
-      website: "https://www.xtrafondos.com/",
+      website: "https://github.com/Luisfervm700/Perfil-Personal-React-Luis",
       phone: "3136623627",
       avatar: img,
       profile: "Soy un programador apasionado con experiencia en el desarrollo de software y soluciones innovadoras. Mi objetivo principal es crear aplicaciones de alta calidad que cumplan con las necesidades y expectativas de los usuarios. Con un enfoque en el diseño limpio y la funcionalidad eficiente, busco constantemente mejorar mis habilidades y mantenerme actualizado con las últimas tecnologías y tendencias en el mundo del desarrollo de software.",
     academic: [
       {
-        degree: "Tecnologo en Analisi y Desarrollo de Software.",
-        description: "Mi estudio incluyó Desarrollo de Software, Bases de Datos y Diseño de Interfaces.",
+        degree: "Tecnologo en Analisis y Desarrollo de Software.",
+        description: "Mi estudio incluye Desarrollo de Software, Bases de Datos y Diseño de Interfaces.",
         institution: "Sena",
         startDate: "Julio 2021",
         endDate: "Presente"
@@ -44,7 +44,7 @@ function App() {
         percentage: "70%"
       }
     ],
-    interest: ["backend", "frontend"],
+    interest: ["React", "frontend"],
     languages: [
       {
         name: "Spanish",
